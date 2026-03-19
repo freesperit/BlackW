@@ -18950,7 +18950,7 @@
                 "package_name": "com.hdwallpapers.survivefreefire",
                 "limit_recent_wallpaper": "30",
                 "category_sort": "cid",
-                "category_order": "DESC",
+                "category_order": "ASC",
                 "onesignal_app_id": "881a8627-d690-42e7-bf61-afad13b39b2e",
                 "onesignal_rest_api_key": "NTE4YzY4NWQtYzI1Mi00Yzc4LWI2ZjYtZmMxMWE5NzkwYWU1",
                 "providers": "onesignal",
