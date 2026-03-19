@@ -76,7 +76,7 @@
             {
                 "cid": "73",
                 "category_name": "Anime wallpapers",
-                "category_image": "upload/category/1716399115647773.jpg",
+                "category_image": "https://i.pinimg.com/736x/4b/0f/d9/4b0fd90343c4a27187e7719085dee899.jpg",
                 "status": "1"
             },
             {
@@ -166,7 +166,7 @@
             {
                 "cid": "89",
                 "category_name": "Pubg & Free Fire",
-                "category_image": "upload/category/1716399800434296.jpg",
+                "category_image": "https://i.pinimg.com/736x/b5/ba/7a/b5ba7aef4ce6f54f9648fdfbedd9c8a5.jpg",
                 "status": "1"
             }
         ]
@@ -18927,6 +18927,18 @@
                 "image_extension": "image/jpeg",
                 "locked": "0",
                 "last_update": "2024-05-22 18:07:09",
+                "status": "1"
+            },
+            {
+                "id": "2318",
+                "cat_id": "79",
+                "view_count": "0",
+                "download_count": "0",
+                "image_url": "https://i.pinimg.com/736x/46/d1/72/46d17233c2190edb7efbfe27f588c8db.jpg",
+                "featured": "no",
+                "tags": "Mortal kombat",
+                "locked": "0",
+                "last_update": "2026-03-19T20:17",
                 "status": "1"
             }
         ]
