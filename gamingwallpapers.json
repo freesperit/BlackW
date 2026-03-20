@@ -68,12 +68,6 @@
                 "status": "1"
             },
             {
-                "cid": "70",
-                "category_name": "Iphone Wallpapers",
-                "category_image": "upload/category/1716394010241123.jpg",
-                "status": "1"
-            },
-            {
                 "cid": "73",
                 "category_name": "Anime wallpapers",
                 "category_image": "https://i.pinimg.com/736x/4b/0f/d9/4b0fd90343c4a27187e7719085dee899.jpg",
@@ -142,7 +136,7 @@
             {
                 "cid": "85",
                 "category_name": "Sports wallpapers",
-                "category_image": "upload/category/1716399373896649.jpg",
+                "category_image": "https://i.pinimg.com/1200x/ab/03/85/ab03857d70c54e81e962edb94bb66919.jpg",
                 "status": "1"
             },
             {
@@ -7873,7 +7867,7 @@
             },
             {
                 "id": "1873",
-                "cat_id": "70",
+                "cat_id": "55",
                 "image": "",
                 "view_count": "1230",
                 "download_count": "234",
@@ -8521,7 +8515,7 @@
             },
             {
                 "id": "1837",
-                "cat_id": "70",
+                "cat_id": "55",
                 "image": "",
                 "view_count": "1624",
                 "download_count": "326",
@@ -11005,7 +10999,7 @@
             },
             {
                 "id": "1698",
-                "cat_id": "70",
+                "cat_id": "55",
                 "image": "",
                 "view_count": "1197",
                 "download_count": "221",
@@ -12877,7 +12871,7 @@
             },
             {
                 "id": "1593",
-                "cat_id": "70",
+                "cat_id": "55",
                 "image": "",
                 "view_count": "1795",
                 "download_count": "379",
@@ -12895,7 +12889,7 @@
             },
             {
                 "id": "1592",
-                "cat_id": "70",
+                "cat_id": "55",
                 "image": "",
                 "view_count": "1325",
                 "download_count": "271",
@@ -13327,7 +13321,7 @@
             },
             {
                 "id": "1568",
-                "cat_id": "70",
+                "cat_id": "55",
                 "image": "",
                 "view_count": "1677",
                 "download_count": "348",
@@ -13957,7 +13951,7 @@
             },
             {
                 "id": "1533",
-                "cat_id": "70",
+                "cat_id": "55",
                 "image": "",
                 "view_count": "1371",
                 "download_count": "247",
@@ -14173,7 +14167,7 @@
             },
             {
                 "id": "1521",
-                "cat_id": "70",
+                "cat_id": "55",
                 "image": "",
                 "view_count": "1186",
                 "download_count": "156",
@@ -14191,7 +14185,7 @@
             },
             {
                 "id": "1520",
-                "cat_id": "70",
+                "cat_id": "55",
                 "image": "",
                 "view_count": "2008",
                 "download_count": "483",
@@ -15775,7 +15769,7 @@
             },
             {
                 "id": "1430",
-                "cat_id": "70",
+                "cat_id": "55",
                 "image": "",
                 "view_count": "1653",
                 "download_count": "387",
@@ -15793,7 +15787,7 @@
             },
             {
                 "id": "1429",
-                "cat_id": "70",
+                "cat_id": "55",
                 "image": "",
                 "view_count": "1345",
                 "download_count": "223",
@@ -15973,7 +15967,7 @@
             },
             {
                 "id": "1419",
-                "cat_id": "70",
+                "cat_id": "55",
                 "image": "",
                 "view_count": "931",
                 "download_count": "71",
@@ -16621,7 +16615,7 @@
             },
             {
                 "id": "1382",
-                "cat_id": "70",
+                "cat_id": "55",
                 "image": "",
                 "view_count": "1673",
                 "download_count": "301",
@@ -16639,7 +16633,7 @@
             },
             {
                 "id": "1381",
-                "cat_id": "70",
+                "cat_id": "55",
                 "image": "",
                 "view_count": "1127",
                 "download_count": "119",
@@ -16783,7 +16777,7 @@
             },
             {
                 "id": "1373",
-                "cat_id": "70",
+                "cat_id": "55",
                 "image": "",
                 "view_count": "1060",
                 "download_count": "138",
@@ -17395,7 +17389,7 @@
             },
             {
                 "id": "1338",
-                "cat_id": "70",
+                "cat_id": "55",
                 "image": "",
                 "view_count": "956",
                 "download_count": "146",
@@ -17827,7 +17821,7 @@
             },
             {
                 "id": "1314",
-                "cat_id": "70",
+                "cat_id": "55",
                 "image": "",
                 "view_count": "422",
                 "download_count": "25",
@@ -17971,7 +17965,7 @@
             },
             {
                 "id": "1306",
-                "cat_id": "70",
+                "cat_id": "55",
                 "image": "",
                 "view_count": "1187",
                 "download_count": "434",
@@ -17989,7 +17983,7 @@
             },
             {
                 "id": "1305",
-                "cat_id": "70",
+                "cat_id": "55",
                 "image": "",
                 "view_count": "698",
                 "download_count": "105",
@@ -18583,7 +18577,7 @@
             },
             {
                 "id": "1271",
-                "cat_id": "70",
+                "cat_id": "55",
                 "image": "",
                 "view_count": "701",
                 "download_count": "102",
@@ -18907,7 +18901,7 @@
             },
             {
                 "id": "1252",
-                "cat_id": "70",
+                "cat_id": "55",
                 "image": "",
                 "view_count": "1832",
                 "download_count": "484",
@@ -18925,7 +18919,7 @@
             },
             {
                 "id": "1251",
-                "cat_id": "70",
+                "cat_id": "55",
                 "image": "",
                 "view_count": "876",
                 "download_count": "116",
