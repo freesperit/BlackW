@@ -3,7 +3,7 @@
         "admob": [
             {
                 "id": "1",
-                "ad_status": "on",
+                "ad_status": "off",
                 "ad_type": "unity",
                 "admob_app_open_ad_unit_id": "",
                 "admob_banner_unit_id": "",
@@ -36,7 +36,7 @@
                 "interstitial_on_set_wallpaper": "true",
                 "interstitial_on_wall_detail": "true",
                 "interstitial_on_search": "false",
-                "native_on_wall_detail": "true",
+                "native_on_wall_detail": "false",
                 "unity_rewarded_placement_id": "Rewarded_Android"
             }
         ]
