@@ -3,7 +3,7 @@
         "admob": [
             {
                 "id": "1",
-                "ad_status": "off",
+                "ad_status": "on",
                 "ad_type": "unity",
                 "admob_app_open_ad_unit_id": "",
                 "admob_banner_unit_id": "",
@@ -28,7 +28,7 @@
                 "set_wall_other_apps": "false",
                 "exit_dialog": "1",
                 "banner_on_mainpage": "false",
-                "banner_on_wall_detail": "false",
+                "banner_on_wall_detail": "true",
                 "banner_on_search": "false",
                 "banner_on_img_slider": "false",
                 "interstitial_on_mainpage": "true",
