@@ -44,117 +44,9 @@
     {
         "tbl_category": [
             {
-                "cid": "55",
-                "category_name": "Stock Wallpapers",
-                "category_image": "https://i.pinimg.com/736x/a4/d8/1c/a4d81c5416e2d24696591ddf90bfbfcb.jpg",
-                "status": "1"
-            },
-            {
-                "cid": "60",
-                "category_name": "Nature Wallpapers",
-                "category_image": "https://i.pinimg.com/736x/21/f5/71/21f571579df9f7aeda51a04c3f5e3c74.jpg",
-                "status": "1"
-            },
-            {
-                "cid": "65",
-                "category_name": "Cool Wallpapers",
-                "category_image": "https://i.pinimg.com/736x/11/c3/06/11c3060c592fc2f1e07dc8ed70893e29.jpg",
-                "status": "1"
-            },
-            {
-                "cid": "68",
-                "category_name": "Movies wallpapers",
-                "category_image": "upload/category/1716393971930452.jpg",
-                "status": "1"
-            },
-            {
-                "cid": "70",
-                "category_name": "Iphone Wallpapers",
-                "category_image": "upload/category/1716394010241123.jpg",
-                "status": "1"
-            },
-            {
-                "cid": "73",
-                "category_name": "Anime wallpapers",
-                "category_image": "https://i.pinimg.com/736x/4b/0f/d9/4b0fd90343c4a27187e7719085dee899.jpg",
-                "status": "1"
-            },
-            {
-                "cid": "75",
-                "category_name": "ghost of tsushima",
-                "category_image": "https://i.pinimg.com/736x/0e/0a/65/0e0a65140daff2d0d17b2a09fad946ca.jpg",
-                "status": "1"
-            },
-            {
-                "cid": "76",
-                "category_name": "Assasins Creed",
-                "category_image": "upload/category/1717249276950961.jpg",
-                "status": "1"
-            },
-            {
-                "cid": "77",
-                "category_name": "Minecraft",
-                "category_image": "upload/category/1719577624425662.jpg",
-                "status": "1"
-            },
-            {
-                "cid": "78",
-                "category_name": "Call Of Duty",
-                "category_image": "https://i.pinimg.com/736x/ed/fe/fa/edfefa75075b6d9acf035485fd7c55e3.jpg",
-                "status": "1"
-            },
-            {
-                "cid": "79",
-                "category_name": "Mortal Kombat wallpapers",
-                "category_image": "https://i.pinimg.com/1200x/ad/20/24/ad2024f75f101a10c63f97d2e01ef8b8.jpg",
-                "status": "1"
-            },
-            {
-                "cid": "80",
-                "category_name": "Gaming wallpapers",
-                "category_image": "https://i.pinimg.com/1200x/1d/21/48/1d21489fc8340e839b2e3fcd891c2ee9.jpg",
-                "status": "1"
-            },
-            {
-                "cid": "81",
-                "category_name": "Pokemon wallpapers",
-                "category_image": "upload/category/1716399213932752.jpg",
-                "status": "1"
-            },
-            {
-                "cid": "82",
-                "category_name": "Neon Mask wallpapers",
-                "category_image": "upload/category/1716399249212825.jpg",
-                "status": "1"
-            },
-            {
-                "cid": "83",
-                "category_name": "AI ART wallpapers",
-                "category_image": "upload/category/171827988844113.jpg",
-                "status": "1"
-            },
-            {
-                "cid": "84",
-                "category_name": "GTA wallpapers",
-                "category_image": "https://i.pinimg.com/736x/fc/b7/b3/fcb7b3c9e516d2e426d4153178461d88.jpg",
-                "status": "1"
-            },
-            {
-                "cid": "85",
-                "category_name": "Sports wallpapers",
-                "category_image": "https://i.pinimg.com/1200x/ab/03/85/ab03857d70c54e81e962edb94bb66919.jpg",
-                "status": "1"
-            },
-            {
-                "cid": "86",
-                "category_name": "SpiderMan wallpapers",
-                "category_image": "upload/category/171639944463530.jpg",
-                "status": "1"
-            },
-            {
-                "cid": "87",
-                "category_name": "Among US wallpapers",
-                "category_image": "upload/category/1716399719880607.jpg",
+                "cid": "89",
+                "category_name": "Pubg & Free Fire",
+                "category_image": "https://i.pinimg.com/736x/b5/ba/7a/b5ba7aef4ce6f54f9648fdfbedd9c8a5.jpg",
                 "status": "1"
             },
             {
@@ -164,9 +56,111 @@
                 "status": "1"
             },
             {
-                "cid": "89",
-                "category_name": "Pubg & Free Fire",
-                "category_image": "https://i.pinimg.com/736x/b5/ba/7a/b5ba7aef4ce6f54f9648fdfbedd9c8a5.jpg",
+                "cid": "87",
+                "category_name": "Among US wallpapers",
+                "category_image": "https://i.pinimg.com/1200x/0e/58/43/0e5843b3961249e042c97273de21cb4b.jpg",
+                "status": "1"
+            },
+            {
+                "cid": "86",
+                "category_name": "SpiderMan wallpapers",
+                "category_image": "https://i.pinimg.com/736x/f5/13/f9/f513f9ee22f335612f84593d3cbd38d7.jpg",
+                "status": "1"
+            },
+            {
+                "cid": "85",
+                "category_name": "Sports wallpapers",
+                "category_image": "https://i.pinimg.com/1200x/ab/03/85/ab03857d70c54e81e962edb94bb66919.jpg",
+                "status": "1"
+            },
+            {
+                "cid": "84",
+                "category_name": "GTA wallpapers",
+                "category_image": "https://i.pinimg.com/736x/fc/b7/b3/fcb7b3c9e516d2e426d4153178461d88.jpg",
+                "status": "1"
+            },
+            {
+                "cid": "83",
+                "category_name": "AI ART wallpapers",
+                "category_image": "https://i.pinimg.com/736x/d6/ee/82/d6ee82c4d4724925953a7463902f1321.jpg",
+                "status": "1"
+            },
+            {
+                "cid": "82",
+                "category_name": "Neon Mask wallpapers",
+                "category_image": "https://i.pinimg.com/736x/4a/f4/d2/4af4d2157705bd3ec85e3ef44bafef1b.jpg",
+                "status": "1"
+            },
+            {
+                "cid": "81",
+                "category_name": "Pokemon wallpapers",
+                "category_image": "https://i.pinimg.com/736x/f5/7f/0d/f57f0d5ad863fdb29d86e020d84c7da5.jpg",
+                "status": "1"
+            },
+            {
+                "cid": "80",
+                "category_name": "Gaming wallpapers",
+                "category_image": "https://i.pinimg.com/1200x/1d/21/48/1d21489fc8340e839b2e3fcd891c2ee9.jpg",
+                "status": "1"
+            },
+            {
+                "cid": "79",
+                "category_name": "Mortal Kombat wallpapers",
+                "category_image": "https://i.pinimg.com/1200x/ad/20/24/ad2024f75f101a10c63f97d2e01ef8b8.jpg",
+                "status": "1"
+            },
+            {
+                "cid": "78",
+                "category_name": "Call Of Duty",
+                "category_image": "https://i.pinimg.com/736x/ed/fe/fa/edfefa75075b6d9acf035485fd7c55e3.jpg",
+                "status": "1"
+            },
+            {
+                "cid": "77",
+                "category_name": "Minecraft",
+                "category_image": "https://i.pinimg.com/736x/cc/fb/c8/ccfbc8dc2716d72b1e2e7f1f71b233d8.jpg",
+                "status": "1"
+            },
+            {
+                "cid": "76",
+                "category_name": "Assasins Creed",
+                "category_image": "https://i.pinimg.com/1200x/8f/b1/f5/8fb1f513d99d0279e79e62bf5427fdbd.jpg",
+                "status": "1"
+            },
+            {
+                "cid": "75",
+                "category_name": "ghost of tsushima",
+                "category_image": "https://i.pinimg.com/736x/0e/0a/65/0e0a65140daff2d0d17b2a09fad946ca.jpg",
+                "status": "1"
+            },
+            {
+                "cid": "73",
+                "category_name": "Anime wallpapers",
+                "category_image": "https://i.pinimg.com/736x/4b/0f/d9/4b0fd90343c4a27187e7719085dee899.jpg",
+                "status": "1"
+            },
+            {
+                "cid": "68",
+                "category_name": "Movies wallpapers",
+                "category_image": "https://i.pinimg.com/1200x/fe/b7/7f/feb77f5b4e1d300fe065b18aacbd939f.jpg",
+                "status": "1"
+            },
+            {
+                "cid": "65",
+                "category_name": "Cool Wallpapers",
+                "category_image": "https://i.pinimg.com/736x/11/c3/06/11c3060c592fc2f1e07dc8ed70893e29.jpg",
+                "status": "1"
+            },
+            {
+                "cid": "60",
+                "category_name": "Nature Wallpapers",
+                "category_image": "https://i.pinimg.com/736x/21/f5/71/21f571579df9f7aeda51a04c3f5e3c74.jpg",
+                "status": "1"
+            },
+            {
+                "cid": "55",
+                "category_name": "Stock Wallpapers",
+                "category_image": "https://i.pinimg.com/1200x/ae/8c/9b/ae8c9b144601c15f58be24645308b1a9.jpg",
                 "status": "1"
             }
         ]
@@ -7885,7 +7879,7 @@
             },
             {
                 "id": "1873",
-                "cat_id": "70",
+                "cat_id": "55",
                 "image": "",
                 "view_count": "1230",
                 "download_count": "234",
@@ -8533,7 +8527,7 @@
             },
             {
                 "id": "1837",
-                "cat_id": "70",
+                "cat_id": "55",
                 "image": "",
                 "view_count": "1624",
                 "download_count": "326",
@@ -11017,7 +11011,7 @@
             },
             {
                 "id": "1698",
-                "cat_id": "70",
+                "cat_id": "55",
                 "image": "",
                 "view_count": "1197",
                 "download_count": "221",
@@ -12889,7 +12883,7 @@
             },
             {
                 "id": "1593",
-                "cat_id": "70",
+                "cat_id": "55",
                 "image": "",
                 "view_count": "1795",
                 "download_count": "379",
@@ -12907,7 +12901,7 @@
             },
             {
                 "id": "1592",
-                "cat_id": "70",
+                "cat_id": "55",
                 "image": "",
                 "view_count": "1325",
                 "download_count": "271",
@@ -13339,7 +13333,7 @@
             },
             {
                 "id": "1568",
-                "cat_id": "70",
+                "cat_id": "55",
                 "image": "",
                 "view_count": "1677",
                 "download_count": "348",
@@ -13969,7 +13963,7 @@
             },
             {
                 "id": "1533",
-                "cat_id": "70",
+                "cat_id": "55",
                 "image": "",
                 "view_count": "1371",
                 "download_count": "247",
@@ -14185,7 +14179,7 @@
             },
             {
                 "id": "1521",
-                "cat_id": "70",
+                "cat_id": "55",
                 "image": "",
                 "view_count": "1186",
                 "download_count": "156",
@@ -14203,7 +14197,7 @@
             },
             {
                 "id": "1520",
-                "cat_id": "70",
+                "cat_id": "55",
                 "image": "",
                 "view_count": "2008",
                 "download_count": "483",
@@ -15787,7 +15781,7 @@
             },
             {
                 "id": "1430",
-                "cat_id": "70",
+                "cat_id": "55",
                 "image": "",
                 "view_count": "1653",
                 "download_count": "387",
@@ -15805,7 +15799,7 @@
             },
             {
                 "id": "1429",
-                "cat_id": "70",
+                "cat_id": "55",
                 "image": "",
                 "view_count": "1345",
                 "download_count": "223",
@@ -15985,7 +15979,7 @@
             },
             {
                 "id": "1419",
-                "cat_id": "70",
+                "cat_id": "55",
                 "image": "",
                 "view_count": "931",
                 "download_count": "71",
@@ -16633,7 +16627,7 @@
             },
             {
                 "id": "1382",
-                "cat_id": "70",
+                "cat_id": "55",
                 "image": "",
                 "view_count": "1673",
                 "download_count": "301",
@@ -16651,7 +16645,7 @@
             },
             {
                 "id": "1381",
-                "cat_id": "70",
+                "cat_id": "55",
                 "image": "",
                 "view_count": "1127",
                 "download_count": "119",
@@ -16795,7 +16789,7 @@
             },
             {
                 "id": "1373",
-                "cat_id": "70",
+                "cat_id": "55",
                 "image": "",
                 "view_count": "1060",
                 "download_count": "138",
@@ -17407,7 +17401,7 @@
             },
             {
                 "id": "1338",
-                "cat_id": "70",
+                "cat_id": "55",
                 "image": "",
                 "view_count": "956",
                 "download_count": "146",
@@ -17839,7 +17833,7 @@
             },
             {
                 "id": "1314",
-                "cat_id": "70",
+                "cat_id": "55",
                 "image": "",
                 "view_count": "422",
                 "download_count": "25",
@@ -17983,7 +17977,7 @@
             },
             {
                 "id": "1306",
-                "cat_id": "70",
+                "cat_id": "55",
                 "image": "",
                 "view_count": "1187",
                 "download_count": "434",
@@ -18001,7 +17995,7 @@
             },
             {
                 "id": "1305",
-                "cat_id": "70",
+                "cat_id": "55",
                 "image": "",
                 "view_count": "698",
                 "download_count": "105",
@@ -18595,7 +18589,7 @@
             },
             {
                 "id": "1271",
-                "cat_id": "70",
+                "cat_id": "55",
                 "image": "",
                 "view_count": "701",
                 "download_count": "102",
@@ -18919,7 +18913,7 @@
             },
             {
                 "id": "1252",
-                "cat_id": "70",
+                "cat_id": "55",
                 "image": "",
                 "view_count": "1832",
                 "download_count": "484",
@@ -18937,7 +18931,7 @@
             },
             {
                 "id": "1251",
-                "cat_id": "70",
+                "cat_id": "55",
                 "image": "",
                 "view_count": "876",
                 "download_count": "116",
