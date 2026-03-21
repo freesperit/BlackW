@@ -168,6 +168,18 @@
     {
         "tbl_gallery": [
             {
+                "id": "2320",
+                "cat_id": "83",
+                "view_count": "0",
+                "download_count": "0",
+                "image_url": "https://i.pinimg.com/736x/b7/ca/51/b7ca51f674607b3be435580daf8c8e66.jpg",
+                "featured": "no",
+                "tags": "Ai",
+                "locked": "1",
+                "last_update": "2026-03-20T14:37",
+                "status": "1"
+            },
+            {
                 "id": "2319",
                 "cat_id": "77",
                 "view_count": "6001",
@@ -175,7 +187,7 @@
                 "image_url": "https://i.pinimg.com/1200x/c5/4c/bf/c54cbfb2f6b4b09a47aaf711d23ce419.jpg",
                 "featured": "no",
                 "tags": "Minecraft",
-                "locked": "0",
+                "locked": "1",
                 "last_update": "2026-03-19T23:16",
                 "status": "1"
             },
@@ -337,14 +349,14 @@
             },
             {
                 "id": "2305",
-                "cat_id": "87",
+                "cat_id": "88",
                 "view_count": "239",
                 "download_count": "57",
                 "image_url": "https://i.pinimg.com/1200x/35/13/88/351388a477c58a9c7b6c5adb40348586.jpg",
                 "featured": "no",
                 "tags": "Among US wallpapers",
                 "locked": "0",
-                "last_update": "2025-12-18 17:00:59",
+                "last_update": "2025-12-18T17:00",
                 "status": "1"
             },
             {
@@ -451,8 +463,8 @@
                 "image_url": "https://i.pinimg.com/1200x/24/bb/68/24bb68ae79cb0bb01c774b36b8997787.jpg",
                 "featured": "no",
                 "tags": "Anime wallpapers",
-                "locked": "0",
-                "last_update": "2025-10-24 13:06:46",
+                "locked": "1",
+                "last_update": "2025-10-24T13:06",
                 "status": "1"
             },
             {
@@ -12693,18 +12705,6 @@
                 "tags": "Stock Wallpapers",
                 "locked": "0",
                 "last_update": "2024-05-22 18:07:09",
-                "status": "1"
-            },
-            {
-                "id": "2320",
-                "cat_id": "83",
-                "view_count": "0",
-                "download_count": "0",
-                "image_url": "https://i.pinimg.com/736x/b7/ca/51/b7ca51f674607b3be435580daf8c8e66.jpg",
-                "featured": "no",
-                "tags": "Ai",
-                "locked": "1",
-                "last_update": "2026-03-20T14:37",
                 "status": "1"
             }
         ]
