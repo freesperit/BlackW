@@ -168,6 +168,18 @@
     {
         "tbl_gallery": [
             {
+                "id": "2323",
+                "cat_id": "77",
+                "view_count": "0",
+                "download_count": "0",
+                "image_url": "https://i.pinimg.com/736x/5f/cf/0a/5fcf0a424348473e70876ff74f6c02b8.jpg",
+                "featured": "no",
+                "tags": "Minecraft",
+                "locked": "0",
+                "last_update": "2026-03-21T18:36",
+                "status": "1"
+            },
+            {
                 "id": "2322",
                 "cat_id": "73",
                 "view_count": "0",
@@ -801,18 +813,6 @@
                 "tags": "Gaming wallpapers",
                 "locked": "0",
                 "last_update": "2025-08-31 13:02:47",
-                "status": "1"
-            },
-            {
-                "id": "2269",
-                "cat_id": "86",
-                "view_count": "410",
-                "download_count": "88",
-                "image_url": "https://i.pinimg.com/1200x/3f/9d/28/3f9d280a94ab5c2e8f2a8278b1b7aa2e.jpg",
-                "featured": "no",
-                "tags": "SpiderMan wallpapers",
-                "locked": "0",
-                "last_update": "2025-08-31 12:59:53",
                 "status": "1"
             },
             {
@@ -12729,18 +12729,6 @@
                 "tags": "Stock Wallpapers",
                 "locked": "0",
                 "last_update": "2024-05-22 18:07:09",
-                "status": "1"
-            },
-            {
-                "id": "2323",
-                "cat_id": "77",
-                "view_count": "0",
-                "download_count": "0",
-                "image_url": "https://i.pinimg.com/736x/5f/cf/0a/5fcf0a424348473e70876ff74f6c02b8.jpg",
-                "featured": "no",
-                "tags": "Minecraft",
-                "locked": "0",
-                "last_update": "2026-03-21T18:36",
                 "status": "1"
             }
         ]
