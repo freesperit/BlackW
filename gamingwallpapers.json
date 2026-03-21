@@ -168,10 +168,34 @@
     {
         "tbl_gallery": [
             {
-                "id": "2320",
-                "cat_id": "83",
+                "id": "2322",
+                "cat_id": "73",
                 "view_count": "0",
                 "download_count": "0",
+                "image_url": "https://i.pinimg.com/736x/a1/82/23/a18223792f81381c72061a45d7c5d94c.jpg",
+                "featured": "no",
+                "tags": "Anime",
+                "locked": "0",
+                "last_update": "2026-03-21T18:34",
+                "status": "1"
+            },
+            {
+                "id": "2321",
+                "cat_id": "86",
+                "view_count": "9010",
+                "download_count": "3010",
+                "image_url": "https://i.pinimg.com/1200x/15/63/8e/15638eaae65d408549dfa3de1983a5e4.jpg",
+                "featured": "no",
+                "tags": "Spiderman",
+                "locked": "0",
+                "last_update": "2026-03-21T18:32",
+                "status": "1"
+            },
+            {
+                "id": "2320",
+                "cat_id": "83",
+                "view_count": "9000",
+                "download_count": "3000",
                 "image_url": "https://i.pinimg.com/736x/b7/ca/51/b7ca51f674607b3be435580daf8c8e66.jpg",
                 "featured": "no",
                 "tags": "Ai",
@@ -12705,6 +12729,18 @@
                 "tags": "Stock Wallpapers",
                 "locked": "0",
                 "last_update": "2024-05-22 18:07:09",
+                "status": "1"
+            },
+            {
+                "id": "2323",
+                "cat_id": "77",
+                "view_count": "0",
+                "download_count": "0",
+                "image_url": "https://i.pinimg.com/736x/5f/cf/0a/5fcf0a424348473e70876ff74f6c02b8.jpg",
+                "featured": "no",
+                "tags": "Minecraft",
+                "locked": "0",
+                "last_update": "2026-03-21T18:36",
                 "status": "1"
             }
         ]
