@@ -168,6 +168,18 @@
     {
         "tbl_gallery": [
             {
+                "id": "2327",
+                "cat_id": "65",
+                "view_count": "0",
+                "download_count": "0",
+                "image_url": "https://i.pinimg.com/736x/04/76/11/047611d006bb8463a85fa3bf661cdae6.jpg",
+                "featured": "no",
+                "tags": "Cool",
+                "locked": "0",
+                "last_update": "2026-03-22T22:12",
+                "status": "1"
+            },
+            {
                 "id": "2326",
                 "cat_id": "65",
                 "view_count": "0",
@@ -1605,18 +1617,6 @@
                 "tags": "SpiderMan wallpapers",
                 "locked": "0",
                 "last_update": "2025-05-24 13:36:47",
-                "status": "1"
-            },
-            {
-                "id": "2198",
-                "cat_id": "84",
-                "view_count": "501",
-                "download_count": "45",
-                "image_url": "",
-                "featured": "no",
-                "tags": "GTA wallpapers",
-                "locked": "0",
-                "last_update": "2025-05-20 15:35:05",
                 "status": "1"
             },
             {
@@ -12765,18 +12765,6 @@
                 "tags": "Stock Wallpapers",
                 "locked": "0",
                 "last_update": "2024-05-22 18:07:09",
-                "status": "1"
-            },
-            {
-                "id": "2327",
-                "cat_id": "65",
-                "view_count": "0",
-                "download_count": "0",
-                "image_url": "https://i.pinimg.com/736x/04/76/11/047611d006bb8463a85fa3bf661cdae6.jpg",
-                "featured": "no",
-                "tags": "Cool",
-                "locked": "0",
-                "last_update": "2026-03-22T22:12",
                 "status": "1"
             }
         ]
