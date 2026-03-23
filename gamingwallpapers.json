@@ -3,7 +3,7 @@
         "admob": [
             {
                 "id": "1",
-                "ad_status": "on",
+                "ad_status": "off",
                 "ad_type": "unity",
                 "admob_app_open_ad_unit_id": "",
                 "admob_banner_unit_id": "",
@@ -18,7 +18,7 @@
                 "unity_interstitial_placement_id": "Interstitial_Android",
                 "interstitial_ad_interval": "3",
                 "app_name": "Gaming HD Wallpapers",
-                "app_version": "2.1.9",
+                "app_version": "2.2.0",
                 "author": "Author",
                 "email": "email@gmail.com",
                 "developed_by": "Developer",
@@ -26,7 +26,7 @@
                 "num_columns_category": "1",
                 "num_columns_category_detail": "2",
                 "set_wall_other_apps": "false",
-                "exit_dialog": "1",
+                "exit_dialog": "0",
                 "banner_on_mainpage": "true",
                 "banner_on_wall_detail": "true",
                 "banner_on_search": "false",
@@ -1546,18 +1546,6 @@
                 "locked": "0",
                 "last_update": "2025-06-09 16:15:58",
                 "status": "0"
-            },
-            {
-                "id": "2204",
-                "cat_id": "65",
-                "view_count": "520",
-                "download_count": "29",
-                "image_url": "",
-                "featured": "no",
-                "tags": "Cool Wallpapers",
-                "locked": "1",
-                "last_update": "2025-06-05 19:08:52",
-                "status": "1"
             },
             {
                 "id": "2203",
@@ -3144,18 +3132,6 @@
                 "status": "0"
             },
             {
-                "id": "2066",
-                "cat_id": "65",
-                "view_count": "1228",
-                "download_count": "121",
-                "image_url": "https://i.pinimg.com/control/564x/41/94/b3/4194b301b7b675448e844a1bbb7ab6ec.jpg",
-                "featured": "no",
-                "tags": "Cool Wallpapers",
-                "locked": "0",
-                "last_update": "2024-10-17 18:30:45",
-                "status": "1"
-            },
-            {
                 "id": "2065",
                 "cat_id": "88",
                 "view_count": "958",
@@ -4028,8 +4004,8 @@
                 "featured": "no",
                 "tags": "Cool Wallpapers",
                 "locked": "0",
-                "last_update": "2024-08-18 13:48:28",
-                "status": "1"
+                "last_update": "2024-08-18T13:48",
+                "status": "0"
             },
             {
                 "id": "1989",
@@ -4724,8 +4700,8 @@
                 "featured": "no",
                 "tags": "Cool Wallpapers",
                 "locked": "0",
-                "last_update": "2024-08-04 22:13:18",
-                "status": "1"
+                "last_update": "2024-08-04T22:13",
+                "status": "0"
             },
             {
                 "id": "1929",
