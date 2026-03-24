@@ -173,18 +173,66 @@
                 "cid": "116",
                 "category_name": "Army",
                 "category_image": "https://i.pinimg.com/736x/7a/7e/ac/7a7eac3528f6a605f2ebdbcf1f70341c.jpg",
-                "status": "1"
+                "status": "0"
             },
             {
                 "cid": "117",
                 "category_name": "Fantesy",
                 "category_image": "https://i.pinimg.com/736x/aa/08/8e/aa088e427f3ab2e94dcb512f7b58c5b5.jpg",
-                "status": "1"
+                "status": "0"
             }
         ]
     },
     {
         "tbl_gallery": [
+            {
+                "id": "3329",
+                "cat_id": "93",
+                "view_count": "0",
+                "download_count": "0",
+                "image_url": "https://i.pinimg.com/736x/bb/de/62/bbde62aa96dff328d15cc6788d0074d6.jpg",
+                "featured": "no",
+                "tags": "Anime",
+                "locked": "0",
+                "last_update": "2026-03-25T00:24",
+                "status": "1"
+            },
+            {
+                "id": "3328",
+                "cat_id": "104",
+                "view_count": "0",
+                "download_count": "0",
+                "image_url": "https://i.pinimg.com/1200x/0a/13/0a/0a130ad001a26c786dddea1e99bf5396.jpg",
+                "featured": "no",
+                "tags": "Spiderman",
+                "locked": "0",
+                "last_update": "2026-03-25T00:22",
+                "status": "1"
+            },
+            {
+                "id": "3327",
+                "cat_id": "92",
+                "view_count": "0",
+                "download_count": "0",
+                "image_url": "https://i.pinimg.com/1200x/44/e1/2b/44e12b711458c6e5cc94f3cf4886571b.jpg",
+                "featured": "no",
+                "tags": "Stock",
+                "locked": "0",
+                "last_update": "2026-03-25T00:21",
+                "status": "1"
+            },
+            {
+                "id": "3326",
+                "cat_id": "108",
+                "view_count": "0",
+                "download_count": "0",
+                "image_url": "https://i.pinimg.com/1200x/29/db/e2/29dbe2a25b49962ccdc57d6fcbf3bb2b.jpg",
+                "featured": "no",
+                "tags": "Celebriry",
+                "locked": "0",
+                "last_update": "2026-03-24T00:09",
+                "status": "1"
+            },
             {
                 "id": "3325",
                 "cat_id": "117",
@@ -195,7 +243,7 @@
                 "tags": "Fantesy",
                 "locked": "0",
                 "last_update": "2026-03-24T00:06",
-                "status": "1"
+                "status": "0"
             },
             {
                 "id": "3324",
@@ -207,7 +255,7 @@
                 "tags": "Fantesy",
                 "locked": "0",
                 "last_update": "2026-03-24T00:06",
-                "status": "1"
+                "status": "0"
             },
             {
                 "id": "3323",
@@ -423,7 +471,7 @@
                 "tags": "Army",
                 "locked": "0",
                 "last_update": "2026-03-14 23:16:16",
-                "status": "1"
+                "status": "0"
             },
             {
                 "id": "3304",
@@ -435,7 +483,7 @@
                 "tags": "Army",
                 "locked": "0",
                 "last_update": "2026-03-14 23:03:39",
-                "status": "1"
+                "status": "0"
             },
             {
                 "id": "3303",
@@ -591,42 +639,6 @@
                 "tags": "Art & Colors",
                 "locked": "0",
                 "last_update": "2025-12-08 13:33:57",
-                "status": "1"
-            },
-            {
-                "id": "2404",
-                "cat_id": "114",
-                "view_count": "461",
-                "download_count": "49",
-                "image_url": "https://i.pinimg.com/1200x/4b/10/3b/4b103bbbd51dd8412a81284f3973ec51.jpg",
-                "featured": "no",
-                "tags": "Art & Colors",
-                "locked": "0",
-                "last_update": "2023-04-17 03:23:33",
-                "status": "1"
-            },
-            {
-                "id": "2402",
-                "cat_id": "114",
-                "view_count": "568",
-                "download_count": "68",
-                "image_url": "https://i.pinimg.com/736x/62/8b/69/628b69345e2a5724bfbff511d8886f98.jpg",
-                "featured": "no",
-                "tags": "Art & Colors",
-                "locked": "0",
-                "last_update": "2023-04-17 03:23:33",
-                "status": "1"
-            },
-            {
-                "id": "2400",
-                "cat_id": "114",
-                "view_count": "487",
-                "download_count": "70",
-                "image_url": "https://i.pinimg.com/736x/a7/8c/72/a78c72c742f1870dbdaffb773f4f2aba.jpg",
-                "featured": "no",
-                "tags": "Art & Colors",
-                "locked": "0",
-                "last_update": "2023-04-17 03:23:33",
                 "status": "1"
             },
             {
@@ -6930,6 +6942,42 @@
                 "status": "1"
             },
             {
+                "id": "2404",
+                "cat_id": "114",
+                "view_count": "461",
+                "download_count": "49",
+                "image_url": "https://i.pinimg.com/1200x/4b/10/3b/4b103bbbd51dd8412a81284f3973ec51.jpg",
+                "featured": "no",
+                "tags": "Art & Colors",
+                "locked": "0",
+                "last_update": "2023-04-17 03:23:33",
+                "status": "1"
+            },
+            {
+                "id": "2402",
+                "cat_id": "114",
+                "view_count": "568",
+                "download_count": "68",
+                "image_url": "https://i.pinimg.com/736x/62/8b/69/628b69345e2a5724bfbff511d8886f98.jpg",
+                "featured": "no",
+                "tags": "Art & Colors",
+                "locked": "0",
+                "last_update": "2023-04-17 03:23:33",
+                "status": "1"
+            },
+            {
+                "id": "2400",
+                "cat_id": "114",
+                "view_count": "487",
+                "download_count": "70",
+                "image_url": "https://i.pinimg.com/736x/a7/8c/72/a78c72c742f1870dbdaffb773f4f2aba.jpg",
+                "featured": "no",
+                "tags": "Art & Colors",
+                "locked": "0",
+                "last_update": "2023-04-17 03:23:33",
+                "status": "1"
+            },
+            {
                 "id": "2396",
                 "cat_id": "98",
                 "view_count": "629",
@@ -7986,15 +8034,15 @@
                 "status": "1"
             },
             {
-                "id": "3326",
-                "cat_id": "108",
+                "id": "3330",
+                "cat_id": "101",
                 "view_count": "0",
                 "download_count": "0",
-                "image_url": "https://i.pinimg.com/1200x/29/db/e2/29dbe2a25b49962ccdc57d6fcbf3bb2b.jpg",
+                "image_url": "https://i.pinimg.com/1200x/2b/0a/71/2b0a71f17c340bb3b66c5a0eab4486e8.jpg",
                 "featured": "no",
-                "tags": "Celebriry",
+                "tags": "Ghost",
                 "locked": "0",
-                "last_update": "2026-03-24T00:09",
+                "last_update": "2026-03-25T00:24",
                 "status": "1"
             }
         ]
