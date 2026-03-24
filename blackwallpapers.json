@@ -66,11 +66,197 @@
                 "category_name": "Neon Mask wallpapers",
                 "category_image": "https://i.pinimg.com/736x/4a/f4/d2/4af4d2157705bd3ec85e3ef44bafef1b.jpg",
                 "status": "1"
+            },
+            {
+                "cid": "115",
+                "category_name": "Black",
+                "category_image": "https://i.pinimg.com/736x/42/09/fe/4209fe38da6b853c55c689ade3ef4d3b.jpg",
+                "status": "1"
             }
         ]
     },
     {
         "tbl_gallery": [
+            {
+                "id": "2699",
+                "cat_id": "115",
+                "view_count": "1928",
+                "download_count": "288",
+                "image_url": "https://i.pinimg.com/736x/e8/10/cd/e810cd68a664e74d14b93d8e56831854.jpg",
+                "featured": "no",
+                "tags": "Black",
+                "locked": "0",
+                "last_update": "2023-08-03 20:14:26",
+                "status": "1"
+            },
+            {
+                "id": "2708",
+                "cat_id": "115",
+                "view_count": "1446",
+                "download_count": "95",
+                "image_url": "https://i.pinimg.com/736x/93/03/c1/9303c1ad8ce0424d1a73d5e65a918b83.jpg",
+                "featured": "no",
+                "tags": "Black",
+                "locked": "0",
+                "last_update": "2023-08-07 20:46:21",
+                "status": "1"
+            },
+            {
+                "id": "2752",
+                "cat_id": "115",
+                "view_count": "2300",
+                "download_count": "161",
+                "image_url": "https://i.pinimg.com/564x/00/d2/1f/00d21f81d727bc77e9c8c217ccbeb0c6.jpg",
+                "featured": "no",
+                "tags": "Black",
+                "locked": "0",
+                "last_update": "2023-09-04 13:53:40",
+                "status": "1"
+            },
+            {
+                "id": "2751",
+                "cat_id": "115",
+                "view_count": "2172",
+                "download_count": "185",
+                "image_url": "https://i.pinimg.com/564x/fd/68/92/fd6892a2dbebc2cbf21b7b2c885d3ca4.jpg",
+                "featured": "no",
+                "tags": "Black",
+                "locked": "0",
+                "last_update": "2023-09-04 13:50:19",
+                "status": "1"
+            },
+            {
+                "id": "2840",
+                "cat_id": "115",
+                "view_count": "1954",
+                "download_count": "92",
+                "image_url": "https://i.pinimg.com/564x/0e/bc/a5/0ebca5cc7c92ece6d8cb70abb4c00cb9.jpg",
+                "featured": "no",
+                "tags": "Black",
+                "locked": "0",
+                "last_update": "2024-03-26 19:43:05",
+                "status": "1"
+            },
+            {
+                "id": "2982",
+                "cat_id": "115",
+                "view_count": "3111",
+                "download_count": "391",
+                "image_url": "https://i.pinimg.com/564x/79/d8/32/79d8329ea8e1ecc94e4799f3f2f55b52.jpg",
+                "featured": "no",
+                "tags": "Black",
+                "locked": "0",
+                "last_update": "2024-06-14 22:03:02",
+                "status": "1"
+            },
+            {
+                "id": "3008",
+                "cat_id": "115",
+                "view_count": "2448",
+                "download_count": "147",
+                "image_url": "https://i.pinimg.com/564x/19/c4/3d/19c43dec8c0989075ddde3438a99ae89.jpg",
+                "featured": "no",
+                "tags": "Black",
+                "locked": "0",
+                "last_update": "2024-06-26 17:55:19",
+                "status": "1"
+            },
+            {
+                "id": "3024",
+                "cat_id": "115",
+                "view_count": "2565",
+                "download_count": "144",
+                "image_url": "https://i.pinimg.com/564x/b1/50/43/b1504351cf42a8bb47a5250a665cc0a9.jpg",
+                "featured": "no",
+                "tags": "Black",
+                "locked": "0",
+                "last_update": "2024-07-18 15:10:45",
+                "status": "1"
+            },
+            {
+                "id": "3185",
+                "cat_id": "115",
+                "view_count": "4047",
+                "download_count": "581",
+                "image_url": "https://i.pinimg.com/736x/a9/8e/77/a98e77ee75af1bf5d5d49fc6e840f123.jpg",
+                "featured": "no",
+                "tags": "Black",
+                "locked": "0",
+                "last_update": "2025-02-27 13:24:42",
+                "status": "1"
+            },
+            {
+                "id": "3189",
+                "cat_id": "115",
+                "view_count": "3309",
+                "download_count": "424",
+                "image_url": "https://i.pinimg.com/736x/c8/5b/68/c85b68b26b800b993d176073264cb22e.jpg",
+                "featured": "no",
+                "tags": "Black",
+                "locked": "0",
+                "last_update": "2025-03-30 22:39:26",
+                "status": "1"
+            },
+            {
+                "id": "3235",
+                "cat_id": "115",
+                "view_count": "1500",
+                "download_count": "211",
+                "image_url": "https://i.pinimg.com/736x/b1/6e/9a/b16e9a1737861e27739db8c1829fce01.jpg",
+                "featured": "no",
+                "tags": "Black",
+                "locked": "0",
+                "last_update": "2025-07-02 22:00:36",
+                "status": "1"
+            },
+            {
+                "id": "3237",
+                "cat_id": "115",
+                "view_count": "2226",
+                "download_count": "46",
+                "image_url": "https://i.pinimg.com/736x/99/05/87/990587c34a5598150e328eb314825358.jpg",
+                "featured": "no",
+                "tags": "Black",
+                "locked": "1",
+                "last_update": "2025-07-04 12:52:22",
+                "status": "1"
+            },
+            {
+                "id": "3256",
+                "cat_id": "115",
+                "view_count": "2032",
+                "download_count": "461",
+                "image_url": "https://i.pinimg.com/736x/cd/b8/e9/cdb8e92309cfee97df86dbc8f9be9b74.jpg",
+                "featured": "no",
+                "tags": "Black",
+                "locked": "0",
+                "last_update": "2025-07-23 12:34:23",
+                "status": "1"
+            },
+            {
+                "id": "3281",
+                "cat_id": "115",
+                "view_count": "1928",
+                "download_count": "195",
+                "image_url": "https://i.pinimg.com/1200x/fc/1c/1c/fc1c1c723aef5fdc68593f8b2d039e54.jpg",
+                "featured": "no",
+                "tags": "Black",
+                "locked": "0",
+                "last_update": "2025-09-29 11:59:16",
+                "status": "1"
+            },
+            {
+                "id": "3300",
+                "cat_id": "115",
+                "view_count": "564",
+                "download_count": "171",
+                "image_url": "https://i.pinimg.com/736x/db/ae/55/dbae5590b985a691c691c8fb98aa9808.jpg",
+                "featured": "no",
+                "tags": "Black",
+                "locked": "0",
+                "last_update": "2026-02-07 15:12:25",
+                "status": "1"
+            },
             {
                 "id": "2328",
                 "cat_id": "70",
