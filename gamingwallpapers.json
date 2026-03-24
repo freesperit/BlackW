@@ -1257,7 +1257,7 @@
                 "tags": "Cool Wallpapers",
                 "locked": "0",
                 "last_update": "2025-07-10T22:39",
-                "status": "0"
+                "status": "1"
             },
             {
                 "id": "2232",
@@ -7148,8 +7148,8 @@
                 "featured": "no",
                 "tags": "Cool Wallpapers",
                 "locked": "0",
-                "last_update": "2026-03-23 18:33:26",
-                "status": "0"
+                "last_update": "2025-03-23T18:33",
+                "status": "1"
             },
             {
                 "id": "1721",
@@ -11364,18 +11364,6 @@
                 "status": "1"
             },
             {
-                "id": "1361",
-                "cat_id": "82",
-                "view_count": "2945",
-                "download_count": "215",
-                "image_url": "https://i.pinimg.com/564x/11/c6/b5/11c6b595b6c5fa667443d52ad3385da6.jpg",
-                "featured": "no",
-                "tags": "Neon Mask wallpapers",
-                "locked": "0",
-                "last_update": "2026-03-23 18:29:08",
-                "status": "0"
-            },
-            {
                 "id": "1360",
                 "cat_id": "83",
                 "view_count": "203",
@@ -11984,8 +11972,8 @@
                 "featured": "no",
                 "tags": "Cool Wallpapers",
                 "locked": "0",
-                "last_update": "2026-03-23 18:09:21",
-                "status": "0"
+                "last_update": "2025-03-23T18:09",
+                "status": "1"
             },
             {
                 "id": "1309",
